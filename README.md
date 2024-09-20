@@ -17,8 +17,8 @@
 
 <h2>Want Contact me? Here you can!</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp;&nbsp;**LinkedIn Profile**
-<img align="left" alt="JoshMadakor" width="22px" src="https://www.svgrepo.com/show/511921/email-1573.svg" />&nbsp;&nbsp;**cr1msonwhitehat@gmail.com**
+[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" width="24px" src="https://www.svgrepo.com/show/511921/email-1573.svg" />&nbsp;&nbsp;**cr1msonwhitehat@gmail.com**
 
 [linkedin]: https://www.linkedin.com/in/francisco-josé-l-451621256/
 
