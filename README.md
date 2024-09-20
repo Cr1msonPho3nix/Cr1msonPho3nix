@@ -18,9 +18,11 @@
 <h2>Want Contact me? Here you can!</h2>
 
 [<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="left" width="24px" src="https://www.svgrepo.com/show/511921/email-1573.svg" />&nbsp;&nbsp;**cr1msonwhitehat@gmail.com**
+<br>
+[<img align="left" width="24px" src="https://www.svgrepo.com/show/511921/email-1573.svg" />][email] &nbsp;&nbsp;**cr1msonwhitehat@gmail.com**
 
 [linkedin]: https://www.linkedin.com/in/francisco-josé-l-451621256/
+[email]: https://github.com/Cr1msonPho3nix
 
 <!--
 **Cr1msonPho3nix/cr1msonPho3nix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
