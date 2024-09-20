@@ -19,7 +19,8 @@
 
 [<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
-[<img align="left" width="24px" src="https://www.svgrepo.com/show/511921/email-1573.svg" />][email] &nbsp;&nbsp;**cr1msonwhitehat@gmail.com**
+
+[<img align="left" width="24px" src="https://www.svgrepo.com/show/511921/email-1573.svg" />][email] **cr1msonwhitehat@gmail.com**
 
 [linkedin]: https://www.linkedin.com/in/francisco-josé-l-451621256/
 [email]: https://github.com/Cr1msonPho3nix
