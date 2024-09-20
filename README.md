@@ -15,7 +15,7 @@
 
 - Google Cybersecurity Professional Certificate </b>
 
-<h2>Want Contact me? Here you can!</h2>
+<h2>Want to Contact me? Here you can!</h2>
 
 [<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] **LinkedIn Profile**
 <br>
