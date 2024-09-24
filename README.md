@@ -5,7 +5,7 @@
 <h2>👨‍💻Projects👨‍💻</h2>
 
 - <b>Conduct a Security Audit</b>
-  - [Security Audit with Fictional Business](https://github.com/Cr1msonPho3nix/audit-example-1)
+  - [Security Audit of a Fictional Business](https://github.com/Cr1msonPho3nix/audit-example-1)
     <br>
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
