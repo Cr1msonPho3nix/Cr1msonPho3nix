@@ -7,10 +7,10 @@
 - <b>Security Compliance</b>
   - [Security Audit of a Fictional Business](https://github.com/Cr1msonPho3nix/audit-example-1)
     <br>
-- <b>Network Related</b>
-  - [Network Security Projects](https://github.com/Cr1msonPho3nix/Network_Projects)
-    - [Analyze Network Layer Communication](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analyze%20Network%20Layer%20Communication.md)
-      <br>
+- <b>Network Related</b> / [Network Security Projects](https://github.com/Cr1msonPho3nix/Network_Projects)
+  - [Analyze Network Layer Communication](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analyze%20Network%20Layer%20Communication.md)
+  - [Analyze network attacks](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analyze%20network%20attacks.md)
+    <br>
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
 
