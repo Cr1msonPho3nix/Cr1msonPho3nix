@@ -26,7 +26,7 @@
 
 [<img align="left" width="24px" src="https://www.svgrepo.com/show/511921/email-1573.svg" />][email] **cr1msonwhitehat@gmail.com**
 
-[linkedin]: https://www.linkedin.com/in/francisco-josé-l-451621256/
+[linkedin]: https://www.linkedin.com/in/fj-crimson/
 [email]: https://github.com/Cr1msonPho3nix
 
 <!--
