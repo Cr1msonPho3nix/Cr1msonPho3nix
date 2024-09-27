@@ -11,6 +11,7 @@
   - [Analyze Network Layer Communication](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analyze%20Network%20Layer%20Communication.md)
   - [Analyze network attacks](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analyze%20network%20attacks.md)
   - [Apply OS hardening techniques](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Apply%20OS%20hardening%20techniques.md)
+  - [Analysis of network hardening](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analysis%20of%20network%20hardening.md)
     <br>
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
