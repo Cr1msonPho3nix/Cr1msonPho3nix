@@ -14,6 +14,8 @@
   - [Analysis of network hardening](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analysis%20of%20network%20hardening.md)
   - [Using NIST CSF to respond a security incident](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Using%20NIST%20CSF%20to%20respond%20a%20security%20incident.md)
     <br>
+- <b>Linux Related</b>  ---> [Network Security Projects](https://github.com/Cr1msonPho3nix/Linux_projects)
+  - [Manage files with Linux commands](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Manage%20files%20with%20Linux%20commands.md)
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
 
