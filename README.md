@@ -16,6 +16,7 @@
     <br>
 - <b>Linux Related</b>  ---> [Network Security Projects](https://github.com/Cr1msonPho3nix/Linux_projects)
   - [Manage files with Linux commands](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Manage%20files%20with%20Linux%20commands.md)
+  - [Managing file and directory permissions](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Managing%20File%20Permission.md)
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
 
