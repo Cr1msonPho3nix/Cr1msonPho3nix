@@ -18,6 +18,9 @@
   - [Manage files with Linux commands](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Manage%20files%20with%20Linux%20commands.md)
   - [Managing file and directory permissions](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Managing%20File%20Permission.md)
   - [Manage users with Linux](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Manage%20users%20with%20Linux%20commands.md)
+- <b>SQL Related</b>  ---> [SQL Projects](https://github.com/Cr1msonPho3nix/SQL_Projects)
+  - [SQL Filtering Query](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/SQL%20Filtering%20Query.md)
+  - [SQL Join Query](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/SQL%20Join.md)
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
 
