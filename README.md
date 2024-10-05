@@ -6,21 +6,23 @@
 
 - <b>Security Compliance</b>
   - [Security Audit of a Fictional Business](https://github.com/Cr1msonPho3nix/audit-example-1)
-    <br>
+    <br><br>
 - <b>Network Related</b> ---> [Network Security Projects](https://github.com/Cr1msonPho3nix/Network_Projects)
   - [Analyze Network Layer Communication](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analyze%20Network%20Layer%20Communication.md)
   - [Analyze network attacks](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analyze%20network%20attacks.md)
   - [Apply OS hardening techniques](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Apply%20OS%20hardening%20techniques.md)
   - [Analysis of network hardening](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Analysis%20of%20network%20hardening.md)
   - [Using NIST CSF to respond a security incident](https://github.com/Cr1msonPho3nix/Network_Projects/blob/main/Using%20NIST%20CSF%20to%20respond%20a%20security%20incident.md)
-    <br>
+    <br><br>
 - <b>Linux Related</b>  ---> [Network Security Projects](https://github.com/Cr1msonPho3nix/Linux_projects)
   - [Manage files with Linux commands](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Manage%20files%20with%20Linux%20commands.md)
   - [Managing file and directory permissions](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Managing%20File%20Permission.md)
   - [Manage users with Linux](https://github.com/Cr1msonPho3nix/Linux_projects/blob/main/Manage%20users%20with%20Linux%20commands.md)
+  <br><br>
 - <b>SQL Related</b>  ---> [SQL Projects](https://github.com/Cr1msonPho3nix/SQL_Projects)
   - [SQL Filtering Query](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/SQL%20Filtering%20Query.md)
   - [SQL Join Query](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/SQL%20Join.md)
+  <br><br>
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
 
