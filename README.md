@@ -23,6 +23,10 @@
   - [SQL Filtering Query](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/SQL%20Filtering%20Query.md)
   - [SQL Join Query](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/SQL%20Join.md)
   <br><br>
+- <b>Asset Protection</b>  ---> [Asset Protection](https://github.com/Cr1msonPho3nix/Asset_Management)
+  - [Classify assets home network](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Classify%20assets%20home%20network.md)
+  - [Determine appropriate data handling practices](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Determine%20appropriate%20data%20handling%20practices.md)
+  - [Score risks based on their likelihood and severity](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Score%20risks%20based%20on%20their%20likelihood%20and%20severity.md)
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
 
