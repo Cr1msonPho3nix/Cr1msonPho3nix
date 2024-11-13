@@ -27,6 +27,10 @@
   - [Classify assets home network](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Classify%20assets%20home%20network.md)
   - [Determine appropriate data handling practices](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Determine%20appropriate%20data%20handling%20practices.md)
   - [Score risks based on their likelihood and severity](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Score%20risks%20based%20on%20their%20likelihood%20and%20severity.md)
+  - [Analyzing a vulnerable system](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Asset%20Projects/Analyzing%20a%20vulnerable%20system.md)
+  - [Improving access control](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Asset%20Projects/Improving%20access%20control.md)
+  - [Creating Hash Values](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Encryption/Creating%20Hash%20values.md)
+  - [Decrypt an encrypted message](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Encryption/Decrypt%20an%20encrypted%20message.md)
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
 
