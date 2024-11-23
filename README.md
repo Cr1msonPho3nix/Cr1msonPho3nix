@@ -36,7 +36,7 @@
   - [Creating Hash Values](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Encryption/Creating%20Hash%20values.md)
   - [Decrypt an encrypted message](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/Encryption/Decrypt%20an%20encrypted%20message.md)
   <br><br>
-- <b>[Incident Response]</b>(https://github.com/Cr1msonPho3nix/Incident-Response-Projects/tree/main)
+- <b>[Incident Response](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/tree/main)</b>
   - [Incident Response Journal](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/Incident%20Handler's%20Journal%20%231.md)
   - [Investigate a suspicious file hash](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/Investigate%20a%20suspicious%20file%20hash.md)
   <br><br>
