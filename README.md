@@ -38,6 +38,9 @@
 - <b>[Incident Response](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/tree/main)</b>
   - [Incident Response Journal](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/Incident%20Handler's%20Journal%20%231.md)
   - [Investigate a suspicious file hash](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/Investigate%20a%20suspicious%20file%20hash.md)
+  - [Review an incident final report](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/Review%20an%20incident%20final%20report.md)
+- <b>[SIEM/IDS/IPS related]
+  - [Suricata test 1](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/SIEM-IDS-IPS/Suricata%20test1.md)
   <br><br>
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
