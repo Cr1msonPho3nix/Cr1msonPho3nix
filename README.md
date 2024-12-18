@@ -41,6 +41,8 @@
   - [Review an incident final report](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/Review%20an%20incident%20final%20report.md)
 - <b>[SIEM/IDS/IPS related](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/tree/main/SIEM-IDS-IPS)</b>
   - [Suricata test 1](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/SIEM-IDS-IPS/Suricata%20test1.md)
+  - [Queries with Splunk_1](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/SIEM-IDS-IPS/Queries%20with%20Splunk.md)
+  - [Queries with Chronicle_1](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/SIEM-IDS-IPS/Queries%20with%20Chronicle_1.md)
   <br><br>
 - <b>Python</b>
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
