@@ -53,7 +53,7 @@
 <br>
 <b>Currently Working on:
 
-- Google Cybersecurity Professional Certificate </b>
+- Hack the Box Hands-on Labs </b>
 
 <h2>Want to Contact me? Here you can!</h2>
 
