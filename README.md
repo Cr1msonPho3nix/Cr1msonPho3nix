@@ -45,6 +45,9 @@
   - [Queries with Chronicle_1](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/SIEM-IDS-IPS/Queries%20with%20Chronicle_1.md)
   <br><br>
 - <b>Python</b>
+  - [Using Regular Expressions to find patterns](https://github.com/Cr1msonPho3nix/Cybersecurity_Automatization/blob/main/Python%20Automatization/Using%20Regular%20Expressions%20to%20find%20patterns.markdown)
+  - [Import and parsing with files](https://github.com/Cr1msonPho3nix/Cybersecurity_Automatization/blob/main/Python%20Automatization/Import%20and%20parsing%20with%20files.md)
+  - [Automated algorithm to rewrite logs](https://github.com/Cr1msonPho3nix/Cybersecurity_Automatization/blob/main/Python%20Automatization/Automated%20algorithm%20to%20rewrite%20logs.md)
   - [Python Training Exercises (Spanish)](https://github.com/Cr1msonPho3nix/Python_Training)
 
 <br>
